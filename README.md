@@ -36,13 +36,13 @@ To get a local copy up and running, follow these steps:
 
 
 ```bash
-git clone https://github.com/ashevkar/pantryTracker.git
+git clone https://github.com/ashevkar/inventory_tracker.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd pantry-tracker
+cd inventory_tracker
 ```
 
 3. Install dependencies:
